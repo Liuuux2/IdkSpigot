@@ -18,8 +18,8 @@
     <description>Parent project for all SternalSpigot modules.</description>
 
     <modules>
-        <module>IdkSpigot-Server</module>
-        <module>IdkSpigot-API</module>
+        <module>SternalSpigot-Server</module>
+        <module>SternalSpigot-API</module>
     </modules>
 
     <properties>
